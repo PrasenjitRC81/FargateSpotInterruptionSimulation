@@ -1,0 +1,1 @@
+The simulation is an extension of AWSFargate deployment which is detailed in https://github.com/PrasenjitRC81/FargateTaskSpotExecution. This page has only the simulation strategy which is detailed in GitHubFargateSpotInterruption.pdf.
